@@ -1,7 +1,14 @@
 <h1 align="center">Hi 👋, I'm Andres Araque</h1>
-<h3 align="center">A passionate backend developer from Colombia</h3>
+<h3 align="center">I'm Andrés Felipe Araque Pardo, a passionate **software developer** currently focused on backend development. I enjoy building efficient, user-friendly solutions and exploring new technologies to enhance my skills.</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+🎯 **What drives me:**  
+- Learning and growing through challenging projects.  
+- Writing clean, maintainable code.  
+- Making a positive impact with technology.  
+
+🌱 **Currently:**  
+- Sharpening my skills in backend development.  
+- Working on personal projects and open to collaboration!
 
 - 📫 How to reach me **amdresw@gmail.com**
 
