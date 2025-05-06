@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andres Araque</h1>
-<h3 align="center">Backend developer in training with academic project experience in C#, Python, and SQL (MySQL and PostgreSQL). Familiar with REST API design, programming logic, relational databases, and version control using Git. Intermediate English (B2) with strong reading and technical documentation skills. Proactive, eager to learn, and committed to clean, efficient code. Focused on delivering functional, well-structured solutions.</h3>
+<h3 align="center">Backend developer in training with academic project experience in C#, Python, and SQL (MySQL and PostgreSQL). Familiar with REST API design, programming logic, relational databases, and version control using Git. Intermediate English (B2) with strong reading and technical documentation skills. Proactive, eager to learn, and committed to clean, efficient code.</h3>
 
 🎯 **What drives me:**  
 - Learning and growing through challenging projects.  
