@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amdresw" alt="amdresw" /></a> </p>
 
-- 🌱 I’m currently learning **.Net and Docker**
+- 🌱 I’m currently learning **AWS**
 
 - 📫 How to reach me **amdresw@gmail.com**
 
